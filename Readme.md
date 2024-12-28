@@ -18,7 +18,7 @@ Description
 6. git status    ---> it provides modified or untracked or deleted files which don't know to the git folder
 
 ### Connect repo to the project available on local
-7. git remote add origin (repo link.git)
+7. git remote add origin (ssh repo link.git)
 
 ### Removing already connected github repo
 8. git remote remove origin
