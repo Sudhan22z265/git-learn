@@ -28,3 +28,9 @@ Description
 
 ### Using upstream to push files to github
 10. git push -u origin main  (Next if we use git push it pushes default to origin/main)
+
+### Branching
+11. git branch ---> To see all available branches in current repo
+12. git checkout -b (branch-name)   ----> To create new branch
+13. git checkout (branch-name)     -----> Switch between branches
+14. git branch -d (branch-nae)     ---> delete the branch
