@@ -34,3 +34,7 @@ Description
 12. git checkout -b (branch-name)   ----> To create new branch
 13. git checkout (branch-name)     -----> Switch between branches
 14. git branch -d (branch-nae)     ---> delete the branch
+
+Create the branch and make changes and push to the branch.
+Then the Mentor sees the PR(Pull Request) and review the code and make merging
+15. git pull origin (branch-name)    --->  takes the merged code from remote to local machine
