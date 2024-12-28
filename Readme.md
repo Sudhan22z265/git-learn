@@ -33,3 +33,4 @@ Description
 11. git branch ---> To see all available branches in current repo
 12. git checkout -b (branch-name)   ----> To create new branch
 13. git checkout (branch-name)     -----> Switch between branches
+14. git branch -d (branch-nae)     ---> delete the branch
