@@ -11,7 +11,7 @@ Description
 2. git init                   --->(Initilizes git folder for saving changes)
 3. git add (./ or filename)     --> Adding file 
 4. git commit -m "message" - m "desc"     ----> commiting the added file and only saved locally
-5. git push                      ---> push the commited file to branch
+5. git push origin master                    ---> push the commited file to branch
 
 
 ### STatus
@@ -25,3 +25,6 @@ Description
 
 ### Check Connected repo
 9. git remote -v
+
+### Using upstream to push files to github
+10. git push -u origin master  (Next if we use git push it pushes default to origin/master)
