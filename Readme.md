@@ -10,7 +10,7 @@ Description
 ### Creating repo
 2. git init                   --->(Initilizes git folder for saving changes)
 3. git add (./ or filename)     --> Adding file 
-4. git commit -m "message"     ----> commiting the added file and only saved locally
+4. git commit -m "message" - m "desc"     ----> commiting the added file and only saved locally
 5. git push                      ---> push the commited file to branch
 
 
