@@ -22,3 +22,6 @@ Description
 
 ### Removing already connected github repo
 8. git remote remove origin
+
+### Check Connected repo
+9. git remote -v
